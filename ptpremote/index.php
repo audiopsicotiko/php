@@ -1,6 +1,6 @@
 <?php
 if($_SERVER['REQUEST_METHOD']=='GET') {
-	header("Location: index.php");
+	header("Location: wea.php");
 	exit();
 }
 
